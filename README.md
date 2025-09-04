@@ -1,9 +1,8 @@
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=600&lines=Hi!+I'm+Alvyn,+Web+Developer" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=8000&color=33FF33&center=true&vCenter=true&width=800&lines=Hi!+I'm+Alvyn,+Web+Developer" alt="Typing SVG"/>
     </h1>
 </div>
-
 
 ![Mon GIF animé](assets/un.gif)
 
